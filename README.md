@@ -1,5 +1,4 @@
-Trabalhos produzidos para Metodologia de Ensino de Filosofia (2020)
---------- ---------- ---- ----------- -- ------ -- --------- ------
+# Trabalhos produzidos para Metodologia de Ensino de Filosofia (2020)
 
 Este repositório consiste em dois trabalhos entregues para a referida disciplina (EDM0424): 
 - Plano de Ensino: proposta de curso (com sugestões de J. Alvim (@josealvim), C. Aguiar, M. S. Sales e P. F. Silveira); 
